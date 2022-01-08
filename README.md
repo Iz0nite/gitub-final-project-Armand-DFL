@@ -11,5 +11,5 @@ The goal of this project is to create an AI that calms you down or insults you w
 Simply clone the project
 
 
-## **Curent version ___**
+## **Curent version 0.1.0**
 For now just the repo is set up
