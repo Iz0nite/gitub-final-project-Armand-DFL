@@ -2,7 +2,7 @@
 ### By Armand DE FARIA LEITE
 
 
-## **About tis project**
+## **About this project**
 
 The goal of this project is to create an AI that calms you down or insults you when you get upset about a game
 
@@ -11,6 +11,6 @@ The goal of this project is to create an AI that calms you down or insults you w
 Simply clone the project
 
 
-## **Curent version 1.0.1**
+## **Curent version 1.0.2**
 Breaking changes !!!!
 A new web interface is up
